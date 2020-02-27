@@ -17,8 +17,8 @@ http://211.221.106.184:8080/board/list
 ### 기능
 - Spring Web Security를 이용한 로그인 처리
   + 사용자 더미데이터 
-    + 아이디 : user00~ user79, manager80~ manager80, admin90~admin99
-    + 비밀번호 : pw00~pw99
+    + 아이디 : user10~ user79, manager80~ manager80, admin90~admin99
+    + 비밀번호 : pw10~pw99
   + 자동로그인 기능
 - 게시글 CRUD 
 - 페이징처리 / 검색처리
