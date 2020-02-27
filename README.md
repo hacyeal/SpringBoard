@@ -12,7 +12,7 @@
 
 ### 링크
 
-http://192.168.0.3:8080/board/list
+http://211.221.106.184:8080/board/list
 
 ### 기능
 - Spring Web Security를 이용한 로그인 처리
